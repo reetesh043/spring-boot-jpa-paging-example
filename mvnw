@@ -87,7 +87,7 @@ if [ -z "$M2_HOME" ] ; then
     fi
   done
 
-  saveddir=`pwd`
+ saveddir=`pwd`
 
   M2_HOME=`dirname "$PRG"`/..
 
