@@ -1,10 +1,10 @@
-package com.bezkoder.spring.data.jpa.pagingsorting;
+package com.reet.spring.data.jpa.paging;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootJpaPagingSortingApplicationTests {
+class SpringBootJpaPagingApplicationTests {
 
 	@Test
 	void contextLoads() {
